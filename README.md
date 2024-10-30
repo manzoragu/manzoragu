@@ -1,4 +1,4 @@
-Coastal Researcher
+# Manuel Zornoza Aguado | PhD Researcher in Coastal Engineering
 
 <!--
 **manzoragu/manzoragu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
